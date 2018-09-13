@@ -1,4 +1,4 @@
 Name: Shiu Ying Shek
 SID: 20447905
 
-<img src="paint.jpg">
+<img src="paint.png">
